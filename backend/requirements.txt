@@ -1,8 +1,8 @@
 annotated-types==0.7.0
 anyio==4.4.0
 bleach==6.1.0
-bokeh==3.4.0 # 3.5.2
-# bokeh_fastapi==0.1.0a0
+bokeh== 3.5.2
+bokeh_fastapi==0.1.0
 certifi==2024.8.30
 charset-normalizer==3.3.2
 click==8.1.7
@@ -26,7 +26,7 @@ mdurl==0.1.2
 numpy==2.1.1
 packaging==24.1
 pandas==2.2.2
-panel==1.4.4 # 1.4.4 # 1.5.0
+panel==1.5.0
 param==2.1.1
 pillow==10.4.0
 pydantic==2.9.0
